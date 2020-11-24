@@ -9,6 +9,7 @@ c = 1 	#c = limite para comparar
 k = 1 	#k = cambios
 j = -1	#j = índices por comparar
 
+
 while(k > 0):
 	k = 0
 	for i in range(len(lst)-c): #num de comparaciones
