@@ -1,0 +1,25 @@
+{
+    "personitas": [
+        {
+            "id": 1,
+            "student_name": "Pablito Mix",
+            "birth_month": "November",
+            "career": "DJ"
+        },
+        {
+            "id": 76,
+            "student_name": "To\u00f1o",
+            "career": "stalker"
+        },
+        {
+            "id": 35,
+            "student_name": "Santiaguito",
+            "birth_month": "December"
+        },
+        {
+            "id": 8.0,
+            "student_name": "DieGOL Maradona",
+            "career": "soccer player"
+        }
+    ]
+}
